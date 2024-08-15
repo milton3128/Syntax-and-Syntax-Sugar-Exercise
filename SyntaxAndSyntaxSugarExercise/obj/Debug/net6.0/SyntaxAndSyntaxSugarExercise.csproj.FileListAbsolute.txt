@@ -1,0 +1,15 @@
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.deps.json
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.dll
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/bin/Debug/net6.0/SyntaxAndSyntaxSugarExercise.pdb
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.dll
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/refint/SyntaxAndSyntaxSugarExercise.dll
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.pdb
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
+/Users/dhemari/repos/Syntax-and-Syntax-Sugar-Exercise/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/ref/SyntaxAndSyntaxSugarExercise.dll
